@@ -1,0 +1,2 @@
+some files are stored in self created static directory. 
+static directory is used to as it is serve some files which are called static files.
